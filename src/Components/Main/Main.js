@@ -25,7 +25,7 @@ import img1 from '../../img/img1.jpg'
 
       <div className="price flex">
         <div className="price_num">
-          <p className="price_txt">Цена:</p>
+          <p className="price_txt">ЦEНА:</p>
           <span></span>
         </div>
 
