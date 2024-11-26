@@ -2,6 +2,7 @@ import './Nav.css'
 
 function Nav () {
     return(
+        <div className="container">
     <nav className="menu">
     <ul className="flex">
     <div class="container">
@@ -23,7 +24,7 @@ function Nav () {
         <i class="menu_ic3"></i>
         <li><a href="" className="hover">Профиль</a></li>
 
-        
+
        </div>
 
           
@@ -32,6 +33,7 @@ function Nav () {
     </div>
     </ul>
     </nav>  
+    </div>
     )
 
 }

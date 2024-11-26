@@ -7,11 +7,11 @@
 .flex{
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
-}
-.flex li {
+
+} 
+ .flex li {
 	padding-right: 40px;
-}
+} 
 .head_in{
 	margin-top: 35px;
 }
@@ -24,4 +24,8 @@
     background: #DBDFD0;
 	transition: 0.2s;
 }
-
+.container{
+	width: 975px;
+	height: 41px;
+	
+		}

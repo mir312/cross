@@ -9,10 +9,10 @@ function Header (){
 
     <>
 <header className="Header">
-			<div className="container">
+			
 
 				<div className="Head flex">
-				
+				<div className="container">
 					<Logo />
                     <Nav />
 					
