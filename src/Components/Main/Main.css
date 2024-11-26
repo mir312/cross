@@ -6,6 +6,11 @@
 
 }
 .tit_txt{
+	font-family: 'Inter';
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38px;
+	width: 240px;
 	
 }
 
@@ -19,4 +24,14 @@ font-family: DM Sans;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px;
+}
+
+.input{
+width: 250px;
+height: 45px;
+border-radius: 10px ;
+border: 1px solid #F3F3F3;
+
+box-shadow: 0px 10px 20px 0px #0000000A;
+
 }
