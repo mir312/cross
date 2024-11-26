@@ -1,5 +1,6 @@
 import Button from '../Button/Button'
 import './Main.css'
+import img1 from '../../img/img1.jpg'
 
   function Main () {
     return(
@@ -13,6 +14,14 @@ import './Main.css'
  </div>
     </div>
 	
+
+  <div className="cards flex">
+    <div className="card">
+
+      <img src={img1} alt="" className="card_img" />
+    </div>
+
+  </div>
 	</div>
 	</section>
 	
