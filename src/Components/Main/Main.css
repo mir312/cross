@@ -120,3 +120,28 @@ line-height: 17px;
 color: #000;
 margin-left: 30px;
 }
+
+.bord_p{
+	background: url(../../img/icons/bord.svg) no-repeat center;
+	width: 32px;
+	height: 32px;
+	border-radius: 7px;
+	display: block;
+	background-size: cover;
+	border: 1px solid #F8F8F8;
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 10px;
+
+}
+
+.plus{
+	background: url(../../img/icons/plus.svg) no-repeat center;
+	display: block;
+	width: 11px;
+	height: 11px;
+	margin: 0 auto;
+    margin-top: 10px;
+	position: relative;
+
+}
