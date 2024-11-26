@@ -21,7 +21,15 @@ import img1 from '../../img/img1.jpg'
       <img src={img1} alt="" className="card_img" />
       <div className="bord"><i className="heart"></i></div>
 
-      <p className="tit_desc">Мужские Кроссовки Nike Kyrie 7</p>
+      <p className="tit_desc">Мужские Кроссовки Under Armour Curry 8</p>
+
+      <div className="price flex">
+        <div className="price_num">
+          <p className="price_txt">Цена:</p>
+          <span></span>
+        </div>
+
+      </div>
       
     </div>
 
