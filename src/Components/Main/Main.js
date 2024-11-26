@@ -19,6 +19,8 @@ import img1 from '../../img/img1.jpg'
     <div className="card">
 
       <img src={img1} alt="" className="card_img" />
+      <div className="bord"><i className="heart"></i></div>
+      
     </div>
 
   </div>
