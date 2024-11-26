@@ -6,19 +6,12 @@
 }
 .flex{
 	display: flex;
-	flex-wrap: wrap;
+	
 
 } 
- .flex li {
-	padding-right: 40px;
-} 
-.head_in{
-	margin-top: 35px;
-}
- .menu{
-	margin:auto ; 
-	cursor: pointer;
-}
+
+
+
 .menu li:hover{
     border-radius: 34px;
     background: #DBDFD0;
@@ -28,4 +21,19 @@
 	width: 975px;
 	height: 41px;
 	
-		}
+}
+.Head{
+	align-items: center;
+}
+.Header{
+    position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+    background:#fff;
+    display: flex;
+	/* padding: 10px 0;
+	z-index: 100000;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 4); */
+	margin-top: 100px;
+}

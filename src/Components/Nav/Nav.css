@@ -1,25 +1,39 @@
 .menu_icon{
     display: flex;
+    padding-right: 30px;
+
 }
 .menu_ic1{
     background: url(../../img/icons/ic1.svg) center no-repeat;
     width: 18px;
     height: 18px;
     display: block;
+    /* margin-right: 12px;
+    margin-top: 4px; */
+    margin: 4px 12px;
+
 }
 
 .menu_ic2{
-    background: url(../../img/icons/ic2.svg) center no-repeat;
+    background: url(../../img/icons/ic2.svg)  center no-repeat; 
     width: 18px;
     height: 18px;
     display: block;
+    margin: 4px 10px;
 }
 .menu_ic3{
     background: url(../../img/icons/ic3.svg) center no-repeat;
     width: 18px;
     height: 18px;
     display: block;
+     margin: 4px 10px;
 }
-.flex{
-    display: flex;
+
+
+.menu{
+    /* width: 338px;
+    height: 19px; */
+    margin-top: 10px;
+    
+
 }

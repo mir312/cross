@@ -8,18 +8,18 @@ function Header (){
     return(
 
     <>
-<header className="Header">
+<header className="Header ">
 			
-
+<div className="container">
 				<div className="Head flex">
-				<div className="container">
+				
 					<Logo />
                     <Nav />
 					
 		
 
 				</div>
-			</div>
+                </div>
 		</header>
 	
     </>    

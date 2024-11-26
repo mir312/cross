@@ -1,14 +1,15 @@
+// import Logo from '../Logo/Logo'
+import Logo from '../Logo/Logo'
 import './Nav.css' 
 
 function Nav () {
     return(
         <div className="container">
-    <nav className="menu">
-    <ul className="flex">
-    <div class="container">
+ 
       <nav class="menu">
-        <ul class="flex">
-    
+       
+        <ul class=" flex">
+        
 
        <div className="menu_icon">
         <i class="menu_ic1"></i>
@@ -31,9 +32,9 @@ function Nav () {
         </ul>
       </nav>
     </div>
-    </ul>
-    </nav>  
-    </div>
+    
+ 
+    
     )
 
 }
