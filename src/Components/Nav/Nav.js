@@ -22,6 +22,8 @@ function Nav () {
        <div class="menu_icon">
         <i class="menu_ic3"></i>
         <li><a href="" className="hover">Профиль</a></li>
+
+        
        </div>
 
           
