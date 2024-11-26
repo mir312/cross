@@ -32,11 +32,15 @@ function Nav () {
         </ul>
       </nav>
     </div>
+
     
  
     
     )
+    
+    
 
 }
+
 
 export default Nav

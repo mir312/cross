@@ -16,11 +16,13 @@ function Header (){
 					<Logo />
                     <Nav />
 					
-		
 
 				</div>
                 </div>
+                		
+
 		</header>
+        <div className="srtip"></div>
 	
     </>    
     )
