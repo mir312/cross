@@ -29,6 +29,10 @@ import img1 from '../../img/img1.jpg'
           <span className='number'>12 999 руб.</span>
         </div>
 
+
+<div className="bord_p">
+  <i className="plus"></i>
+</div>
       </div>
       
     </div>
