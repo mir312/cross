@@ -20,6 +20,8 @@ import img1 from '../../img/img1.jpg'
 
       <img src={img1} alt="" className="card_img" />
       <div className="bord"><i className="heart"></i></div>
+
+      <p className="tit_desc">Мужские Кроссовки Nike Kyrie 7</p>
       
     </div>
 
