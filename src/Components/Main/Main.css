@@ -11,27 +11,37 @@
 	font-weight: 700;
 	line-height: 38px;
 	width: 240px;
+	color: #000;
 	
 }
 
-.sec_desc{
-width: 537px;
-height: 64px;
-margin:32px 400px 40px;
-text-align: center;
-color:  #2C2F24;
-font-family: DM Sans;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px;
-}
 
 .input{
 width: 250px;
 height: 45px;
 border-radius: 10px ;
 border: 1px solid #F3F3F3;
-
 box-shadow: 0px 10px 20px 0px #0000000A;
+position: absolute;
+color: #C4C4C4;
+text-align: center;
+
 
 }
+
+
+.ic_search{
+	background: url(../../img/icons/lupu.png) no-repeat center;
+	position: relative;
+	display: block;
+	width: 30px;
+	justify-content: space-between;
+	margin-left: 20px;
+
+}
+
+.search{
+	margin-left: 350px;
+}
+
+

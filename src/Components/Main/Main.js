@@ -7,8 +7,10 @@ import './Main.css'
 	<div className="container">
     <div className="sec_tit flex">
  <h2 className="tit_txt">Все кроссовки</h2>
-
- <input type="text" className="input"  placeholder='Поиск'/>
+<div className="search flex">
+  <i className="ic_search"></i>
+ <input type="text" className="input"  placeholder='  Поиск...'/>
+ </div>
     </div>
 	
 	</div>
