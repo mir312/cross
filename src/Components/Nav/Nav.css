@@ -1,1 +1,22 @@
-.menu_icon
+.menu_icon{
+    display: flex;
+}
+.menu_ic1{
+    background: url(../../img/icons/ic1.svg) center no-repeat;
+    width: 18px;
+    height: 18px;
+    display: block;
+}
+
+.menu_ic2{
+    background: url(../../img/icons/ic2.svg) center no-repeat;
+    width: 18px;
+    height: 18px;
+    display: block;
+}
+.menu_ic3{
+    background: url(../../img/icons/ic3.svg) center no-repeat;
+    width: 18px;
+    height: 18px;
+    display: block;
+}
